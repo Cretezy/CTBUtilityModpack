@@ -1,3 +1,5 @@
+# CTB's Utility Modpack
+
 A client utility pack using Fabric, supporting Minecraft snapshot versions.
 
 It is a light modpack providing a few mods which improve gameplay but does not change it. 
@@ -19,7 +21,7 @@ Comment if you would like to see a mod included.
 
 ## Installation
 
-Download the desired version, and import as ZIP inside [MultiMC](https://multimc.org/)
+Download the desired version from the [releases](https://github.com/Cretezy/CTBUtilityModpack/releases) page, and import as ZIP inside [MultiMC](https://multimc.org/)
 
 - Install [MultiMC](https://multimc.org/)
 - In MultiMC, click "New Instance" (top left)
