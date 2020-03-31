@@ -21,7 +21,9 @@ Comment if you would like to see a mod included.
 
 ## Installation
 
-Download the desired version from the [releases](https://github.com/Cretezy/CTBUtilityModpack/releases) page, and import as ZIP inside [MultiMC](https://multimc.org/)
+Download the desired version from the [releases](https://github.com/Cretezy/CTBUtilityModpack/releases) page (download source code as ZIP), and import as ZIP inside [MultiMC](https://multimc.org/)
+
+> You may also copy the URL and paste it inside MultiMC's import screen
 
 - Install [MultiMC](https://multimc.org/)
 - In MultiMC, click "New Instance" (top left)
