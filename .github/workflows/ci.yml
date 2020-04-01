@@ -8,7 +8,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     - name: Build
-      run: ./scripts/package
+      run: bash scripts/package
     - name: Upload
       uses: actions/upload-artifact@v1.0.0
       with:
