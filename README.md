@@ -17,17 +17,15 @@ Mods included:
 
 Also includes the [Faithful resource pack](https://faithful.team).
 
-Comment if you would like to see a mod included.
-
 ## Installation
 
-Download the desired version from the [releases](https://github.com/Cretezy/CTBUtilityModpack/releases) page (download source code as ZIP), and import as ZIP inside [MultiMC](https://multimc.org/)
+Download the desired version from the [releases](https://github.com/Cretezy/CTBUtilityModpack/releases) page (Download the pack's `.zip`, not the source code), and import as ZIP inside [MultiMC](https://multimc.org)
 
 > You may also copy the URL and paste it inside MultiMC's import screen
 
-- Install [MultiMC](https://multimc.org/)
+- Install [MultiMC](https://multimc.org)
 - In MultiMC, click "New Instance" (top left)
 - Select "Import from zip" (sidebar)
-- Select the ZIP you downloaded from the "Files" tab above
+- Select the ZIP you downloaded from the "Files" tab above (or paste the URL)
 - Click "OK"
 - Double-click the CTB Utility Pack to launch

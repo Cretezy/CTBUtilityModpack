@@ -4,6 +4,8 @@ set -e
 
 cd "$(dirname "$0")"
 
-cd ..
+cd ../src
 
-zip -r build/pack.zip . -x build -x .git -x .github -x scripts -x .gitignore
+rm ../build/pack.zip
+
+zip -r ../build/pack.zip .
