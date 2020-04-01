@@ -6,6 +6,6 @@ cd "$(dirname "$0")"
 
 cd ../src
 
-rm ../build/pack.zip
+rm -f ../build/pack.zip
 
 zip -r ../build/pack.zip .
