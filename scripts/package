@@ -6,4 +6,4 @@ cd "$(dirname "$0")"
 
 cd ..
 
-zip -r build/pack.zip . -x build
+zip -r build/pack.zip . -x build -x .git -x .github -x scripts -x .gitignore

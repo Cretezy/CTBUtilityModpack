@@ -13,5 +13,5 @@ jobs:
     - name: Upload
       uses: actions/upload-artifact@v1.0.0
       with:
-        name: pack.zip
-        path: build/pack.zip
+        name: Build
+        path: build
