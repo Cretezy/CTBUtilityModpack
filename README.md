@@ -29,3 +29,7 @@ Download the desired version from the [releases](https://github.com/Cretezy/CTBU
 - Select the ZIP you downloaded from the "Files" tab above (or paste the URL)
 - Click "OK"
 - Double-click the CTB Utility Pack to launch
+
+## Updating
+
+See the [wiki page](https://github.com/Cretezy/CTBUtilityModpack/wiki/Updating) for updating the modpack
