@@ -4,7 +4,7 @@ A client utility pack using Fabric, supporting Minecraft snapshot versions.
 
 It is a light modpack providing a few mods which improve gameplay but does not change it. 
 
-It is usually updated very quickly (1-3 days after snapshot is released), and it should be compatible with all servers.
+It is usually updated very quickly (0-2 days after snapshot is released), and it should be compatible with all servers.
 
 Mods included:
 
