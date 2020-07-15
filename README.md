@@ -4,7 +4,7 @@ A client utility pack using Fabric, supporting Minecraft snapshot versions.
 
 It is a light modpack providing a few mods which improve gameplay but does not change it. 
 
-It is usually updated very quickly (1-3 days after snapshot is released), and it should be compatible with all servers.
+It is usually updated very quickly (0-2 days after snapshot is released), and it should be compatible with all servers.
 
 Mods included:
 
@@ -14,6 +14,8 @@ Mods included:
 - [Mini HUD](https://www.curseforge.com/minecraft/mc-mods/mini-hud): Open config using H + C, and use H to toggle HUD
 - [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items): View item recipes
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo): Various utility tweaks
+- [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium): Rendering performance improvements (better FPS)
+- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium): Server performance improvements (only for single-player worlds)
 
 Also includes the [Faithful resource pack](https://faithful.team).
 
@@ -29,3 +31,7 @@ Download the desired version from the [releases](https://github.com/Cretezy/CTBU
 - Select the ZIP you downloaded from the "Files" tab above (or paste the URL)
 - Click "OK"
 - Double-click the CTB Utility Pack to launch
+
+## Updating
+
+See the [wiki page](https://github.com/Cretezy/CTBUtilityModpack/wiki/Updating) for updating the modpack
