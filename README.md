@@ -15,7 +15,7 @@ Mods included:
 - [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items): View item recipes
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo): Various utility tweaks
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium): Rendering performance improvements (better FPS)
-- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium): Server performance improvements (only for single-player worlds)
+- [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights): Enable in mod settings menu, dynamic lights
 
 Also includes the [Faithful resource pack](https://faithful.team).
 
