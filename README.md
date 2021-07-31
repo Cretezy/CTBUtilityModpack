@@ -8,12 +8,13 @@ It is usually updated very quickly (0-2 days after snapshot is released), and it
 
 Mods included:
 
-- [Mouse Wheelie](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie): Inventory utilities and sorting (middle-click)
+- [Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller): Inventory utilities
 - [Apple Skin](https://www.curseforge.com/minecraft/mc-mods/appleskin): Shows saturation and preview hunger
 - [Light Overlay](https://www.curseforge.com/minecraft/mc-mods/light-overlay): Press F7 to see light overlay
 - [Mini HUD](https://www.curseforge.com/minecraft/mc-mods/mini-hud): Open config using H + C, and use H to toggle HUD
 - [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items): View item recipes
 - [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo): Various utility tweaks
+- [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica): Schematics
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium): Rendering performance improvements (better FPS)
 - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights): Enable in mod settings menu, dynamic lights
 
